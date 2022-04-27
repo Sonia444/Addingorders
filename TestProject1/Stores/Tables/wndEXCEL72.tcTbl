@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{F1D3EE30-C2A8-4AFF-801C-1D39E2C902F0}" version="15.0">
+	<Table Name="wndEXCEL72">
+		<Source Object="Aliases.EXCEL.wndXLMAIN.XLDESK.wndEXCEL7">
+			<DataExtraction Type="OpticalTableRecognition" DetectionMode="ByCoordinates" SelectionPreference="NearestToCenter" HasHeader="True">
+				<Rectangle Left="33" Top="55" Right="628" Bottom="150" />
+			</DataExtraction>
+		</Source>
+		<Columns>
+			<Column>Customer Kenyon Stuart Street 73668 East Daniels Way City Thousand Oaks</Column>
+			<Column>State Zip&#10;NE 06842</Column>
+			<Column>CardNo&#10;1330019087</Column>
+			<Column>ExpDate&#10;Jan-21</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">Ezra Sparks 64574 Mcclain Way Florence</Cell>
+				<Cell Type="String">MD 18769</Cell>
+				<Cell Type="String">1978201255</Cell>
+				<Cell Type="String">Oct-23</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Mia Pratt 27891 Saint Lucia Blvd. Kona</Cell>
+				<Cell Type="String">FL 42423</Cell>
+				<Cell Type="String">2062480260</Cell>
+				<Cell Type="String">Nov-22</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Gavin Roberson 19804 Uzbekistan Ct. Atlantic City</Cell>
+				<Cell Type="String">NY 06595</Cell>
+				<Cell Type="String">1528583210</Cell>
+				<Cell Type="String">Mar-29</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

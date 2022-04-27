@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{70FC6ED0-A122-4A26-9B64-EDDBB2F11A49}" version="15.0">
+	<children>
+		<child name="wndEXCEL7" key="{58D41EBD-7825-4FA1-8B6D-077657083211}" path="wndEXCEL7.tcTbl" />
+		<child name="Edit" key="{71BC8912-F512-4D3F-8AC6-78B4BEE48283}" path="Edit.tcTbl" />
+		<child name="wndEXCEL71" key="{6115163A-53F3-4354-BA31-CCD4C8C4F686}" path="wndEXCEL71.tcTbl" />
+		<child name="wndEXCEL72" key="{1A771B72-5815-4073-8825-1C02BB871685}" path="wndEXCEL72.tcTbl" />
+	</children>
+</Root>

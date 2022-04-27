@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{F1D3EE30-C2A8-4AFF-801C-1D39E2C902F0}" version="15.0">
+	<Table Name="wndEXCEL7">
+		<Source Object="Aliases.EXCEL.wndXLMAIN.XLDESK.wndEXCEL7">
+			<DataExtraction Type="OpticalTableRecognition" DetectionMode="Automatic" SelectionPreference="NearestToCenter" HasHeader="True" />
+		</Source>
+		<Columns>
+			<Column>1</Column>
+			<Column>Customer</Column>
+			<Column>Street</Column>
+			<Column>City</Column>
+			<Column>State</Column>
+			<Column>Zip</Column>
+			<Column>CardNo</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">2</Cell>
+				<Cell Type="String">Kenyon Stuart</Cell>
+				<Cell Type="String">73668</Cell>
+				<Cell Type="String">Thousand Oaks</Cell>
+				<Cell Type="String">NE</Cell>
+				<Cell Type="String">06842</Cell>
+				<Cell Type="String">1330019087</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">3</Cell>
+				<Cell Type="String">Ezra Sparks</Cell>
+				<Cell Type="String">64574</Cell>
+				<Cell Type="String">Florence</Cell>
+				<Cell Type="String">MD</Cell>
+				<Cell Type="String">18769</Cell>
+				<Cell Type="String">1978201255</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">4&#10;5</Cell>
+				<Cell Type="String">Mia Pratt&#10;Gavin Roberson</Cell>
+				<Cell Type="String">27891&#10;19804</Cell>
+				<Cell Type="String">Kona&#10;Atlantic City</Cell>
+				<Cell Type="String">FL&#10;NY</Cell>
+				<Cell Type="String">42423&#10;06595</Cell>
+				<Cell Type="String">2062480260&#10;1528583210</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">6&#10;7</Cell>
+				<Cell Type="String">Uma Donovan&#10;Igor Newman</Cell>
+				<Cell Type="String">64440&#10;65172</Cell>
+				<Cell Type="String">Bakersfield&#10;Homer</Cell>
+				<Cell Type="String">NJ&#10;NE</Cell>
+				<Cell Type="String">18396&#10;90889</Cell>
+				<Cell Type="String">1621081159&#10;1516240863</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">8</Cell>
+				<Cell Type="String">Amery Freeman</Cell>
+				<Cell Type="String">50923</Cell>
+				<Cell Type="String">Santa Barbara</Cell>
+				<Cell Type="String">СТ</Cell>
+				<Cell Type="String">37177</Cell>
+				<Cell Type="String">2052255336</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">9</Cell>
+				<Cell Type="String">Rana Rodriquez</Cell>
+				<Cell Type="String">74465</Cell>
+				<Cell Type="String">Biddeford</Cell>
+				<Cell Type="String">MA</Cell>
+				<Cell Type="String">94671</Cell>
+				<Cell Type="String">1669447557</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">10</Cell>
+				<Cell Type="String">Chelsea Sullivan</Cell>
+				<Cell Type="String">82225</Cell>
+				<Cell Type="String">Pittsburgh</Cell>
+				<Cell Type="String">MA</Cell>
+				<Cell Type="String">20188</Cell>
+				<Cell Type="String">2146313492</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">11</Cell>
+				<Cell Type="String">Norman Ward</Cell>
+				<Cell Type="String">26082</Cell>
+				<Cell Type="String">Weirton</Cell>
+				<Cell Type="String">WA</Cell>
+				<Cell Type="String">38447</Cell>
+				<Cell Type="String">1478127250</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

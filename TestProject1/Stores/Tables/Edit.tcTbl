@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{F1D3EE30-C2A8-4AFF-801C-1D39E2C902F0}" version="15.0">
+	<Table Name="Edit">
+		<Source Object="Aliases.notepad.wndNotepad.Edit">
+			<DataExtraction Type="OpticalTableRecognition" DetectionMode="Automatic" SelectionPreference="NearestToCenter" HasHeader="True" />
+		</Source>
+		<Columns>
+			<Column>Bob</Column>
+			<Column>Feather</Column>
+			<Column>FamilyAlbum</Column>
+			<Column>1</Column>
+			<Column>40249</Column>
+			<Column>14,</Column>
+			<Column>North</Column>
+			<Column>av.</Column>
+			<Column>Milltown, WI</Column>
+			<Column>US</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">Mark</Cell>
+				<Cell Type="String">Smith</Cell>
+				<Cell Type="String">FamilyAlbum</Cell>
+				<Cell Type="String">1</Cell>
+				<Cell Type="String">40211</Cell>
+				<Cell Type="String">9,</Cell>
+				<Cell Type="String">Maple</Cell>
+				<Cell Type="String">Valley</Cell>
+				<Cell Type="String">Whitestone,</Cell>
+				<Cell Type="String">British</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>
